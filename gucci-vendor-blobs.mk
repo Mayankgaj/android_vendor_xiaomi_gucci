@@ -182,8 +182,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/gucci/proprietary/vendor/lib/libssd.so:system/vendor/lib/libssd.so \
     vendor/xiaomi/gucci/proprietary/vendor/lib/libtzplayready.so:system/vendor/lib/libtzplayready.so \
     vendor/xiaomi/gucci/proprietary/vendor/lib/libtzdrmgenprov.so:system/vendor/lib/libtzdrmgenprov.so \
-    vendor/xiaomi/gucci/proprietary/bin/fm_qsoc_patches:system/bin/fm_qsoc_patches \
-    vendor/xiaomi/gucci/proprietary/lib/modules/radio-iris-transport.ko:system/lib/modules/radio-iris-transport.ko \
     vendor/xiaomi/gucci/proprietary/bin/location-mq:system/bin/location-mq \
     vendor/xiaomi/gucci/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
     vendor/xiaomi/gucci/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
